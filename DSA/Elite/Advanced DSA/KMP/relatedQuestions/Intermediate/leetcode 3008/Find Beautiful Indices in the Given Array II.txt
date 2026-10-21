@@ -1,0 +1,1 @@
+﻿Find Beautiful Indices in the Given Array II
